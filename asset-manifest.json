@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JohnSStudios/static/css/main.f4a405e9.chunk.css",
+    "main.js": "/JohnSStudios/static/js/main.09a973ca.chunk.js",
+    "main.js.map": "/JohnSStudios/static/js/main.09a973ca.chunk.js.map",
+    "runtime-main.js": "/JohnSStudios/static/js/runtime-main.dfff7591.js",
+    "runtime-main.js.map": "/JohnSStudios/static/js/runtime-main.dfff7591.js.map",
+    "static/js/2.d19f30c8.chunk.js": "/JohnSStudios/static/js/2.d19f30c8.chunk.js",
+    "static/js/2.d19f30c8.chunk.js.map": "/JohnSStudios/static/js/2.d19f30c8.chunk.js.map",
+    "index.html": "/JohnSStudios/index.html",
+    "static/css/main.f4a405e9.chunk.css.map": "/JohnSStudios/static/css/main.f4a405e9.chunk.css.map",
+    "static/js/2.d19f30c8.chunk.js.LICENSE.txt": "/JohnSStudios/static/js/2.d19f30c8.chunk.js.LICENSE.txt",
+    "static/media/hero-bcg-2.40965be8.jpeg": "/JohnSStudios/static/media/hero-bcg-2.40965be8.jpeg",
+    "static/media/hero-bcg.cc577be8.jpeg": "/JohnSStudios/static/media/hero-bcg.cc577be8.jpeg",
+    "static/media/logo.1f71008b.png": "/JohnSStudios/static/media/logo.1f71008b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfff7591.js",
+    "static/js/2.d19f30c8.chunk.js",
+    "static/css/main.f4a405e9.chunk.css",
+    "static/js/main.09a973ca.chunk.js"
+  ]
+}
